@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.hk-nanbei.cn/sitemap.xml
